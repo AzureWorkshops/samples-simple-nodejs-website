@@ -1,0 +1,22 @@
+{
+  "name": "samples-simple-nodejs-website",
+  "version": "1.0.0",
+  "description": "simple nodejs website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzureWorkshops/samples-simple-nodejs-website.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AzureWorkshops/samples-simple-nodejs-website/issues"
+  },
+  "homepage": "https://github.com/AzureWorkshops/samples-simple-nodejs-website#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
